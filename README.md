@@ -1,43 +1,54 @@
-# Hi there 👋, I'm Naveen
+# Naveen
 
-## 🚀 About Me
-- 🎓 Computer Science Student
-- 🐧 Linux Enthusiast
-- 💻 Learning Backend Development & Databases
-- ☁️ Interested in Cloud Computing and DevOps
-- 🌱 Currently learning SQL, Bash Scripting, and Big Data
+### Computer Science Student | Linux Enthusiast | Backend Developer
 
-## 🛠️ Tech Stack
+I am a Computer Science student passionate about Linux, Backend Development, Databases, and Open Source technologies.
 
-### Languages
-- Python
-- SQL
-- Bash
+Currently focused on:
 
-### Databases
-- MySQL
-- MariaDB
-- MongoDB
+* Linux System Administration
+* Bash Scripting & Automation
+* SQL & Database Design
+* Backend Development
+* Big Data Technologies
 
-### Tools & Technologies
-- Linux
-- Git
-- GitHub
-- Docker
+## Technical Skills
 
-## 📈 GitHub Stats
+**Programming Languages**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+* Python
+* SQL
+* Bash
 
-## 🔥 Streak Stats
+**Databases**
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+* MySQL
+* MariaDB
+* MongoDB
 
-## 📫 Connect With Me
+**Tools & Platforms**
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: Add your LinkedIn here
+* Linux
+* Git
+* GitHub
+* Docker
 
----
+## Current Goals
 
-⭐ Always learning and building new things.
+* Build real-world backend projects
+* Contribute to open-source projects
+* Improve Linux and DevOps skills
+* Learn cloud technologies
+
+## Featured Projects
+
+* Linux Automation Scripts
+* SQL Practice Repository
+* Personal Portfolio Website
+* Backend API Projects
+
+## Contact
+
+* GitHub: github.com/knaveen150107-cmd
+
+> Consistent learning, practical projects, and continuous improvement.
