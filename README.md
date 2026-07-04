@@ -8,7 +8,7 @@
 <h1 align="center">Hi , I'm Naveen K</h1>
 
 <h3 align="center">
-Machine Learning Engineer • AI Enthusiast • Full Stack Developer
+Machine Learning Engineer | AI Enthusiast | Full Stack Developer
 </h3>
 
 <p align="center">
