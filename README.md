@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Dynamic Coding GIF from Pinterest -->
-  <img src="https://i.pinimg.com/originals/99/33/1b/99331bbf1917b7381bf4ef817c13cbff.gif" alt="Coding GIF" width="700" />
+  <!-- Dynamic Workspace Coding GIF (Fixed Permanent Link) -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM20yMzdqM2U0NXBtMnA3MG81Ym9icXN0MzcyNjRreGhyOHJrcm4wcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9386dUI9EP7dBv3re6/giphy.gif" alt="Coding GIF" width="700" />
 
   <br>
 
