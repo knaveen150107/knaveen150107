@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3R2Nnhsbndxb2Y3Z2NhZms3endjNWJibm8xYTd1NXc4aG4xcmJrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif"
        alt="Naveen K Banner"
-       width="900"/>
+       width="600"/>
 </div>
 
 <h1 align="center">Hi , I'm Naveen K</h1>
