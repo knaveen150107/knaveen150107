@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Dynamic Workspace Coding GIF (Fixed Permanent Link) -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM20yMzdqM2U0NXBtMnA3MG81Ym9icXN0MzcyNjRreGhyOHJrcm4wcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9386dUI9EP7dBv3re6/giphy.gif" alt="Coding GIF" width="700" />
+  <!-- Planetary System Animation from image_bd07a3.jpg -->
+  <img src="https://i.pinimg.com/originals/61/78/37/617837642696754570.gif" alt="Planetary System" width="700" />
 
   <br>
 
