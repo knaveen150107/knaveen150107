@@ -4,7 +4,7 @@
 
 <div align="center"> 
 
-## Naveen K 
+## Naveen K  
 
 ### Machine Learning Engineer | AI Enthusiast | Full Stack Developer
 
